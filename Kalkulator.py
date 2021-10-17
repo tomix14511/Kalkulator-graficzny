@@ -45,3 +45,4 @@ p = tkinter.Button(root, text="Odejmowanie", command=odejmowanie, borderwidth=20
 p.pack()
 p.place(x=100, y=300)
 root.mainloop()
+#123
